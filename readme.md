@@ -19,7 +19,7 @@
 <img src="tela-login-cadastro/imgs/usuario-logado.jpg"></img>
 <hr>
 <p>
-→ A validação do login é feito por um <strong>token</strong> de 16 carácteres aleatórios gerados toda vez que o usuário efetua log-in, barrando o acesso a tela de início aos usuários que não possuirem cadastro no sistema.
+→ A validação do login é feito por um <strong>token</strong> de 32 carácteres aleatórios gerados toda vez que o usuário efetua log-in, barrando o acesso a tela de início aos usuários que não possuirem cadastro no sistema.
 </p>
 <hr>
 <img src="tela-login-cadastro/imgs/exemplo.jpg"></img>
