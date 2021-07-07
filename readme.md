@@ -1,5 +1,5 @@
-Olá,
-Este é um projeto realizado com base em meus estudos em HTML5, CSS e JavaScript. 
+<h1>Olá,</h1>
+<h2>Este é um projeto realizado com base em meus estudos em HTML5, CSS e JavaScript.</h2> 
 
 O projeto consiste em uma página de log-in, linkada a uma página contendo um formulário de cadastro.
 
@@ -13,5 +13,5 @@ Foi usado HTML5, CSS Flexbox, JS básico em alguns elementos de manipulação do
 
  **Para melhor experiência inicie a pasta com a extensão Live-Server!.
 
------ João Vítor Carvalho ----
+<strong>----- João Vítor Carvalho ---- </strong>
 
