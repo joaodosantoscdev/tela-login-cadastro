@@ -25,7 +25,7 @@
 <img src="tela-login-cadastro/imgs/exemplo.jpg"></img>
 <hr>
 <h3>
-Tudo feito com conhecimento básico em JavaScript e Document object Model ✔️
+Tudo feito com conhecimento básico em JavaScript e Document Object Model ✔️
 </h3>
 
 <em>'Este projeto não possui fins lucrativos, foi realizado com base em meus estudos.'</em>
