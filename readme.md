@@ -13,5 +13,5 @@ Foi usado HTML5, CSS Flexbox, JS básico em alguns elementos de manipulação do
 
  **Para melhor experiência inicie a pasta com a extensão Live-Server!.
 
- ----------------------------------------------------------- João Vítor Carvalho ---------------------------------------------------
+----- João Vítor Carvalho ----
 
