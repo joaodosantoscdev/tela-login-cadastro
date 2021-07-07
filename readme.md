@@ -3,11 +3,11 @@
 <h2>Este é um projeto realizado com base em meus estudos em HTML5, CSS e JavaScript. </h2>
 
 <p>O projeto consiste em uma página de log-in, linkada a uma página contendo um formulário de cadastro.</p>
-
+<hr>
 <img src="tela-login-cadastro/imgs/login.jpg"></img>
 <br>
 <img src="tela-login-cadastro/imgs/cadastro.jpg"></img>
-
+<hr>
 
 <h2>Como funciona ❔</h2>
 <p>
@@ -32,8 +32,8 @@ Tudo feito com conhecimento básico em JavaScript e Document object Model ✔️
 
 <h2>❗ ATENÇÃO ❗ ⚠️</h2>
 
-<strong> → O projeto foi criado ultilizando a extensão Live-Sever do VSCode. Caso não ultilize, a experiência será comprometida!
-→ Para melhor experiência inicie a pasta com a extensão Live-Server!.</strong>
+<strong> → O projeto foi criado ultilizando a extensão Live-Sever do VSCode. Caso não ultilize, a experiência será comprometida!</strong>
+<strong> → Para melhor experiência inicie a pasta com a extensão Live-Server!.</strong>
 
 <img src="tela-login-cadastro/imgs/live-server.JPG"></img>
 
