@@ -1,0 +1,158 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", Arial, sans-serif;
+
+}
+
+body {
+  background-image: url(https://wallpapercave.com/wp/wp5204110.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 120px;
+}
+
+.content {
+  background-color: #ffffffc0;
+  padding: 30px;
+  border-radius: 4%;
+  box-shadow: 3px 3px 1px 0px #00000070;
+
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  color: #000;
+}
+
+h1::after {
+  content: '';
+	display: block;
+	width: 40px;
+	height: 2px;
+	background: #000;
+	margin: 1px auto 20px auto;
+}
+
+.label-float input  {
+  background-color: transparent;
+  width: 100%;
+  padding: 5px 5px;
+  display: inline-block;
+  border: 0;
+  border-left: 2px solid #4e89e2f6;
+  border-bottom: 2px solid #00000080;
+  outline: none;
+  min-width: 180px;
+  font-size: 16px;
+  transition: all .3s ease-out
+}
+
+.label-float {
+  position: relative;
+  padding-top: 13px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.label-float input:focus {
+  border-bottom: 2px solid #000;
+}
+
+.label-float label {
+  color: #3b3b3b;
+  pointer-events: none;
+  position: absolute;
+  margin-left: 5px;
+  top: 0;
+  left: 0;
+  margin-top: 18px;
+  transition: all .3s ease-out
+}
+
+.label-float input:focus + label,
+.label-float input:valid + label {
+  font-size: 13px;
+  margin-top: 0;
+  color: #00000080;
+}
+
+.fa-eye {
+  color: #000000c2;
+  position: absolute;
+  top: 17px;
+  right: 0px;
+  cursor: pointer;
+}
+
+button {
+  color: #fff;
+  background-color: #4e89e2f6;
+  border-radius: 4px;
+  border-color: transparent;
+  outline: none;
+  padding: 8px 12px;
+  font-weight: bold;
+  box-shadow: 1px 1px 1px 1px #00000025;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #fff;
+  color: #4e89e2f6;
+  border: 2px solid #4e89e2f6;
+  transition: all .2s ease-out
+}
+
+.justify-center {
+  display: flex;
+  justify-content: center;
+}
+
+hr {
+  color: #000;
+  margin-top: 10%;
+  width: 80%;
+  margin-bottom: 10%;
+}
+
+div p a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #4e89e2f6;
+}
+div p a:hover {
+  color: #757575;
+  transition: all .2s ease-out
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 260px;
+}
+
+.copy {
+  font-size: 14px;
+}
+
+#msgError {
+  text-align: center;
+  color: #ff0000;
+  background-color: #ffbbbb;
+  padding: 10px;
+  border-radius: 4px;
+  display: none;
+}
