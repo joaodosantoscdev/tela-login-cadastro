@@ -1,17 +1,17 @@
-<h1>Olá ❕</h1>
+<h1>Hello ❕</h1>
 
-<h2>Este é um projeto realizado com base em meus estudos em HTML5, CSS e JavaScript. </h2>
+<h2>➡️This project was developed using HTML5, CSS & JavaScript 🛠️</h2>
 
-<p>O projeto consiste em uma página de log-in, linkada a uma página contendo um formulário de cadastro.</p>
+<p>This project consists in a log-in page, linked to a register page</p>
 <hr>
+<h3>Fully Responsive 📱 💻 🖥️</h3>
 <img src="tela-login-cadastro/imgs/login.jpg"></img>
 <br>
 <img src="tela-login-cadastro/imgs/cadastro.jpg"></img>
 <hr>
-
-<h2>Como funciona ❔</h2>
+<h2>How it works ❔</h2>
 <p>
-   → Foi usado <strong>HTML5, CSS Flexbox, JavaScript Básico</strong> em alguns elementos de manipulação do DOM, assim como a conexão foi feita usando o <strong>localStorage</strong> do navegador como "banco de dados" e por meio de um arquivo <strong>JSON</strong> padrão do navegador realizada a alimentação das informações do usuário cadastrado também como a manipulação dos mesmos para a exibição na aplicação.
+   → Was used <strong>HTML5, CSS Flexbox & Basic JavaScript</strong> in some DOM elements, using the <strong>LocalStorage</strong> as a "data-base" who manipulate a <strong>JSON archive</strong> to storage all the data in the register page and use it through the site environment. Also a login token is generated everytime that a user log into the site.
 </p>
 <hr>
 <img src="tela-login-cadastro/imgs/login-usuario.jpg"></img>
@@ -19,23 +19,23 @@
 <img src="tela-login-cadastro/imgs/usuario-logado.jpg"></img>
 <hr>
 <p>
-→ A validação do login é feito por um <strong>token</strong> de 32 carácteres aleatórios gerados toda vez que o usuário efetua log-in, barrando o acesso a tela de início aos usuários que não possuirem cadastro no sistema.
+→ A log-in validation happen using a <strong>token</strong> with 32 characters generated barring access to the home page for the user that isn't registered.
 </p>
 <hr>
 <img src="tela-login-cadastro/imgs/exemplo.jpg"></img>
 <hr>
 <h3>
-Tudo feito com conhecimento básico em JavaScript e Document Object Model ✔️
-</h3>
+That's all made with Basic Pure JavaScript & Document Object Model ✔️</h3>
 
-<em>'Este projeto não possui fins lucrativos, foi realizado com base em meus estudos.'</em>
+<em>'Non-profit project, only for the application of my studies..'  📚</em>
 
-<h2>❗ ATENÇÃO ❗ ⚠️</h2>
+<h2>❗ WARNING ❗ ⚠️</h2>
 
-<strong> → O projeto foi criado ultilizando a extensão Live-Sever do VSCode. Caso não ultilize, a experiência será comprometida!</strong>
-<strong> Para melhor experiência inicie a pasta com a extensão Live-Server!.</strong>
+<p><strong>   
+→ The project was created using the VSCode Live-Sever extension. If you don't use it, the experience will be compromised! </strong>
+<strong> For the best experience, launch the folder with the Live-Server extension!.</strong></p>
 
 <img src="tela-login-cadastro/imgs/live-server.JPG"></img>
 
- --João Vítor Carvalho --
+ --   João Vítor Carvalho 👨‍💻 --
 
