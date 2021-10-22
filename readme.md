@@ -6,7 +6,7 @@
 <hr>
 <h3>Fully Responsive 📱 💻 🖥️</h3>
 <div>
-   <img height="400px" src="tela-login-cadastro/imgs/login.jpg"></img> <img height="400px" src="tela-login-cadastro/imgs/cadastro.jpg"></img>
+   <img height="500px" src="tela-login-cadastro/imgs/login.jpg"></img> <img height="500px" src="tela-login-cadastro/imgs/cadastro.jpg"></img>
 </div>
 <hr>
 <h2>How it works ❔</h2>
